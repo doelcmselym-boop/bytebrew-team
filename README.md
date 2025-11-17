@@ -1,4 +1,4 @@
 # bytebrew-team
 ## Myles McLeod
-- Student
+- MSAI Student
 - I like to run, a lot.
